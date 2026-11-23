@@ -3,3 +3,4 @@ resource "null_resource" "gitops_demo" {
     project = var.project_name
   }
 }
+# gitops test
