@@ -4,3 +4,4 @@ resource "null_resource" "gitops_demo" {
   }
 }
 # gitops test
+# GitOps Change
